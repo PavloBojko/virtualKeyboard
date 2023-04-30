@@ -7,10 +7,11 @@ function generateKeyBoard() {
     if (item == 14 || item == 29 || item == 42 || item == 56) {
       output += `<div class="clearfix"></div>`
     }
-    output += `<div class = "key" data=${element.code} >${ element.charCode? String.fromCharCode(element.charCode): element.key}</div>`
+    output += `<div class = "key ${element.code=="Tab"?"w-60":''}${element.code=="ShiftLeft"||element.code=="CapsLock"||element.code=="Backspace"?"w-125":''}${element.code=="Enter"?"w-115":''}${element.code=="ControlLeft"||element.code=="ControlRight"?"w-70":''}${element.code=="Space"?"w-412":''}" data=${element.code} >${element.key=="ArrowUp"?"<img src='./img/ArrowUp.png'>":''}${element.key=="ArrowDown"?"<img src='./img/ArrowDown.png'>":''}${element.key=="ArrowRight"?"<img src='./img/ArrowRight.png'>":''}${element.key=="ArrowLeft"?"<img src='./img/ArrowLeft.png'>":''}${element.key=="Meta"?"<img src='./img/win.png'>":''}${element.key!="Meta"&&element.key!="ArrowLeft"&&element.key!="ArrowUp"&&element.key!="ArrowRight"&&element.key!="ArrowDown"?element.key:''}</div>`
   });
   document.querySelector('.keyboard').innerHTML = output
 }
+// ${element.charCode? String.fromCharCode(element.charCode): element.key=="ArrowUp"?"<img src='./img/ArrowUp.png'>":element.key}
 generateKeyBoard();
 
 document.onkeydown = function(event) {
