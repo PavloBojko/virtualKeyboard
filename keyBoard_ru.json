@@ -1,0 +1,392 @@
+[
+  {
+    "charCode": 1105,
+    "code": "Backquote",
+    "key": "ё",
+    "keyCode": 192
+  },
+  {
+    "charCode": 49,
+    "code": "Digit1",
+    "key": "1",
+    "keyCode": 49
+  },
+  {
+    "charCode": 50,
+    "code": "Digit2",
+    "key": "2",
+    "keyCode": 50
+  },
+  {
+    "charCode": 51,
+    "code": "Digit3",
+    "key": "3",
+    "keyCode": 51
+  },
+  {
+    "charCode": 52,
+    "code": "Digit4",
+    "key": "4",
+    "keyCode": 52
+  },
+  {
+    "charCode": 53,
+    "code": "Digit5",
+    "key": "5",
+    "keyCode": 53
+  },
+  {
+    "charCode": 54,
+    "code": "Digit6",
+    "key": "6",
+    "keyCode": 54
+  },
+  {
+    "charCode": 55,
+    "code": "Digit7",
+    "key": "7",
+    "keyCode": 55
+  },
+  {
+    "charCode": 56,
+    "code": "Digit8",
+    "key": "8",
+    "keyCode": 56
+  },
+  {
+    "charCode": 57,
+    "code": "Digit9",
+    "key": "9",
+    "keyCode": 57
+  },
+  {
+    "charCode": 48,
+    "code": "Digit0",
+    "key": "0",
+    "keyCode": 48
+  },
+  {
+    "charCode": 45,
+    "code": "Minus",
+    "key": "-",
+    "keyCode": 189
+  },
+  {
+    "charCode": 61,
+    "code": "Equal",
+    "key": "=",
+    "keyCode": 187
+  },
+  {
+    "charCode": 0,
+    "code": "Backspace",
+    "key": "Backspace",
+    "keyCode": 8
+  },
+  {
+    "charCode": 0,
+    "code": "Tab",
+    "key": "Tab",
+    "keyCode": 9
+  },
+  {
+    "charCode": 1081,
+    "code": "KeyQ",
+    "key": "й",
+    "keyCode": 81
+  },
+  {
+    "charCode": 1094,
+    "code": "KeyW",
+    "key": "ц",
+    "keyCode": 87
+  },
+  {
+    "charCode": 1091,
+    "code": "KeyE",
+    "key": "у",
+    "keyCode": 69
+  },
+  {
+    "charCode": 1082,
+    "code": "KeyR",
+    "key": "к",
+    "keyCode": 82
+  },
+  {
+    "charCode": 1077,
+    "code": "KeyT",
+    "key": "е",
+    "keyCode": 84
+  },
+  {
+    "charCode": 1085,
+    "code": "KeyY",
+    "key": "н",
+    "keyCode": 89
+  },
+  {
+    "charCode": 1075,
+    "code": "KeyU",
+    "key": "г",
+    "keyCode": 85
+  },
+  {
+    "charCode": 1096,
+    "code": "KeyI",
+    "key": "ш",
+    "keyCode": 73
+  },
+  {
+    "charCode": 1097,
+    "code": "KeyO",
+    "key": "щ",
+    "keyCode": 79
+  },
+  {
+    "charCode": 1079,
+    "code": "KeyP",
+    "key": "з",
+    "keyCode": 80
+  },
+  {
+    "charCode": 1093,
+    "code": "BracketLeft",
+    "key": "х",
+    "keyCode": 219
+  },
+  {
+    "charCode": 1098,
+    "code": "BracketRight",
+    "key": "ъ",
+    "keyCode": 221
+  },
+  {
+    "charCode": 92,
+    "code": "Backslash",
+    "key": "\\",
+    "keyCode": 220
+  },
+  {
+    "charCode": 0,
+    "code": "Delete",
+    "key": "Delete",
+    "keyCode": 46
+  },
+  {
+    "charCode": 0,
+    "code": "CapsLock",
+    "key": "CapsLock",
+    "keyCode": 20
+  },
+  {
+    "charCode": 1092,
+    "code": "KeyA",
+    "key": "ф",
+    "keyCode": 65
+  },
+  {
+    "charCode": 1099,
+    "code": "KeyS",
+    "key": "ы",
+    "keyCode": 83
+  },
+  {
+    "charCode": 1074,
+    "code": "KeyD",
+    "key": "в",
+    "keyCode": 68
+  },
+  {
+    "charCode": 1072,
+    "code": "KeyF",
+    "key": "а",
+    "keyCode": 70
+  },
+  {
+    "charCode": 1087,
+    "code": "KeyG",
+    "key": "п",
+    "keyCode": 71
+  },
+  {
+    "charCode": 1088,
+    "code": "KeyH",
+    "key": "р",
+    "keyCode": 72
+  },
+  {
+    "charCode": 1086,
+    "code": "KeyJ",
+    "key": "о",
+    "keyCode": 74
+  },
+  {
+    "charCode": 1083,
+    "code": "KeyK",
+    "key": "л",
+    "keyCode": 75
+  },
+  {
+    "charCode": 1076,
+    "code": "KeyL",
+    "key": "д",
+    "keyCode": 76
+  },
+  {
+    "charCode": 1078,
+    "code": "Semicolon",
+    "key": "ж",
+    "keyCode": 186
+  },
+  {
+    "charCode": 1101,
+    "code": "Quote",
+    "key": "э",
+    "keyCode": 222
+  },
+  {
+    "charCode": 13,
+    "code": "Enter",
+    "key": "Enter",
+    "keyCode": 13
+  },
+  {
+    "charCode": 0,
+    "code": "ShiftLeft",
+    "key": "Shift",
+    "keyCode": 16
+  },
+  {
+    "charCode": 92,
+    "code": "Backslash",
+    "key": "\\",
+    "keyCode": 220
+  },
+  {
+    "charCode": 1103,
+    "code": "KeyZ",
+    "key": "я",
+    "keyCode": 90
+  },
+  {
+    "charCode": 1095,
+    "code": "KeyX",
+    "key": "ч",
+    "keyCode": 88
+  },
+  {
+    "charCode": 1089,
+    "code": "KeyC",
+    "key": "с",
+    "keyCode": 67
+  },
+  {
+    "charCode": 1084,
+    "code": "KeyV",
+    "key": "м",
+    "keyCode": 86
+  },
+  {
+    "charCode": 1080,
+    "code": "KeyB",
+    "key": "и",
+    "keyCode": 66
+  },
+  {
+    "charCode": 1090,
+    "code": "KeyN",
+    "key": "т",
+    "keyCode": 78
+  },
+  {
+    "charCode": 1100,
+    "code": "KeyM",
+    "key": "ь",
+    "keyCode": 77
+  },
+  {
+    "charCode": 1102,
+    "code": "Period",
+    "key": "ю",
+    "keyCode": 190
+  },
+  {
+    "charCode": 1073,
+    "code": "Comma",
+    "key": "б",
+    "keyCode": 188
+  },
+  {
+    "charCode": 46,
+    "code": "Slash",
+    "key": ".",
+    "keyCode": 191
+  },
+  {
+    "charCode": 0,
+    "code": "ArrowUp",
+    "key": "ArrowUp",
+    "keyCode": 38
+  },
+  {
+    "charCode": 0,
+    "code": "ShiftRight",
+    "key": "Shift",
+    "keyCode": 16
+  },
+  {
+    "charCode": 0,
+    "code": "ControlLeft",
+    "key": "Control",
+    "keyCode": 17
+  },
+  {
+    "charCode": 0,
+    "code": "MetaLeft",
+    "key": "Meta",
+    "keyCode": 91
+  },
+  {
+    "charCode": 0,
+    "code": "AltLeft",
+    "key": "Alt",
+    "keyCode": 18
+  },
+  {
+    "charCode": 32,
+    "code": "Space",
+    "key": " ",
+    "keyCode": 32
+  },
+  {
+    "charCode": 0,
+    "code": "AltRight",
+    "key": "Alt",
+    "keyCode": 18
+  },
+  {
+    "charCode": 0,
+    "code": "ControlRight",
+    "key": "Control",
+    "keyCode": 17
+  },
+  {
+    "charCode": 0,
+    "code": "ArrowLeft",
+    "key": "ArrowLeft",
+    "keyCode": 37
+  },
+  {
+    "charCode": 0,
+    "code": "ArrowDown",
+    "key": "ArrowDown",
+    "keyCode": 40
+  },
+  {
+    "charCode": 0,
+    "code": "ArrowRight",
+    "key": "ArrowRight",
+    "keyCode": 39
+  }
+]
